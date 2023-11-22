@@ -1,0 +1,15 @@
+export const Strings = {
+    edit: 'Edit',
+    save: 'Save',
+    note: 'Note:',
+    cancel: 'Cancel',
+    delete: 'Delete',
+    client: 'Client:',
+    header: 'Notes List',
+    addNote: 'Add a note',
+    category: 'Category:',
+    noNotes: 'No note yet!',
+    deleteTitle: 'Delete Note',
+    editNote: 'Edit your note',
+    deleteDesc: 'Are you sure you want to delete this note?',
+}

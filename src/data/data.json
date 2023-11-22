@@ -1,0 +1,12 @@
+{
+    "clients": [
+        "Client A",
+        "Client B",
+        "Client C"
+    ],
+    "categories": [
+        "Goal Evidence",
+        "Support Coordination",
+        "Active Duty"
+    ]
+}
